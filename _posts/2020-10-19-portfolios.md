@@ -1,6 +1,7 @@
 ---
 comments: false
 excerpt: An overview and reflection of my portfolio
+hidden: true
 ---
 
 ### Nomad dataset challenge
