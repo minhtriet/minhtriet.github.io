@@ -14,3 +14,22 @@ div.flex {
   flex-wrap: wrap;
   align-items: center;
 }
+
+div.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+div.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  align-items: center;
+  justify-content: space-between;
+}
+
