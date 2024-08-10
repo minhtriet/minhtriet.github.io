@@ -33,3 +33,10 @@ div.column {
   justify-content: space-between;
 }
 
+.legend { list-style: none; }
+.legend li { float: left; margin-right: 10px; }
+.legend span { border: 1px solid #ccc; float: left; width: 12px; height: 12px; margin: 2px; }
+/* your colors */
+.legend .fe { background-color: #e06633; }
+.legend .n { background-color: #3050f8; }
+.legend .h { background-color: #fefefe; }
