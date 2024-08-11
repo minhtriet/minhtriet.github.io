@@ -40,3 +40,25 @@ div.column {
 .legend .fe { background-color: #e06633; }
 .legend .n { background-color: #3050f8; }
 .legend .h { background-color: #fefefe; }
+
+dl dt {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
+dl dd{
+    display: inline-block;
+    margin: 0px 10px;
+    padding-bottom: 0;
+    vertical-align: middle;
+}
+dl dt.fe{
+    background: #e06633;
+}
+dl dt.n{
+    background: #3050f8;
+}
+dl dt.h{
+    background: #fefefe;
+}
