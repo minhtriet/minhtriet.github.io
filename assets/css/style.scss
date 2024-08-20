@@ -65,3 +65,15 @@ video {
 .h{
     background: #fefefe;
 }
+
+/////////////// god
+.column img {
+  max-height: 312px;
+  width: auto;
+  object-fit: contain;
+}
+
+figure {
+  align-items: center;
+  text-align: center;
+}
