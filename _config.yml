@@ -1,9 +1,8 @@
 title: Minh Chau
 email:
 description: A description
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: neon
+github_username: minhtriet
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -28,21 +27,18 @@ plugins:
 
 author:
   name   : "Minh Chau"
-  avatar : "/assets/images/dragonslug.jpg"
+  # avatar : "/assets/images/dragonslug.jpg"
   bio    : "Listener. Speaker"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
+    - label: "Google Scholars"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-  #  - label: "Instagram"
-  #    icon: "fab fa-fw fa-instagram"
-  #    url: "https://instagram.com/"
 
 footer:
   links:
