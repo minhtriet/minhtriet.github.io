@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
 title: Minh Chau
 paginate: 5
