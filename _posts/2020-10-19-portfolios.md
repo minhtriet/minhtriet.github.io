@@ -1,7 +1,7 @@
 ---
 comments: false
-excerpt: An overview and reflection of my portfolio
-hidden: true
+excerpt: Some of my small projects
+hidden: false
 ---
 
 ### Nomad dataset challenge
