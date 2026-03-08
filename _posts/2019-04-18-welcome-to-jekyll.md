@@ -4,8 +4,8 @@ date: 2025-08-16
 tags:
   - Guides
 header:
-  image: /assets/images/header/retrosynthesis.png
-  teaser: /assets/images/header/retrosynthesis.png
+  image: https://images.unsplash.com/photo-1562411052-105105232432?h=400&w=1500&fit=crop
+  teaser: https://images.unsplash.com/photo-1562411052-105105232432?w=400&fit=crop
 ---
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
