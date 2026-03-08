@@ -1,11 +1,11 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
-categories:
-  - blog
+title: "Retrosynthesis with ML"
+date: 2025-08-16
 tags:
-  - Jekyll
-  - update
+  - Guides
+header:
+  image: /assets/images/headers/2025-08-16-contax-167mt-repair-header.JPG
+  teaser: /assets/images/headers/2025-08-16-contax-167mt-repair-header.JPG
 ---
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
