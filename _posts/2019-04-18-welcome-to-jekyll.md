@@ -4,8 +4,8 @@ date: 2025-08-16
 tags:
   - Guides
 header:
-  image: /assets/images/headers/2025-08-16-contax-167mt-repair-header.JPG
-  teaser: /assets/images/headers/2025-08-16-contax-167mt-repair-header.JPG
+  image: /assets/images/header/retrosynthesis.png
+  teaser: /assets/images/header/retrosynthesis.png
 ---
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
