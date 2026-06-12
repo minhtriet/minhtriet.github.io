@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-```mermaid
+```mermaid!
 graph TD;
     A-->B;
     A-->C;
