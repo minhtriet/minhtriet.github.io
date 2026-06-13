@@ -4,11 +4,12 @@ title: "About"
 ---
 
 <pre class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+timeline
+    Data & Backend Systems
+    Ranking and Search : Scientific computing Hydrogen Embrittlement
+    Predictive Modeling : Quantum computing
+    LLM Systems : Equivariance quantum
+    Agentic system : Research → Quantum Computing
 </pre>
 <script type="module">
 	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
