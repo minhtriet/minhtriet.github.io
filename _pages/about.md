@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 author_profile: false
+classes: wide
 ---
 
 <pre class="mermaid">
@@ -17,7 +18,7 @@ timeline
 	mermaid.initialize({
 		startOnLoad: true,
 		timeline: {
-          disableMulticolor: false,
+          disableMulticolor: true,
         },
 		logLevel: 0
 	});
