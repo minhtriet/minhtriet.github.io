@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-classes: wide
 ---
 
 <pre class="mermaid">
@@ -13,7 +12,7 @@ timeline TD
 	section 2025
     Predictive Modeling : Quantum computing
 	section 2026
-    LLM Systems <br> Agentic systems : Equivariance quantum : Fault tolerant QC
+    LLM Systems <br> Agentic systems : Equivariance quantum : <a href="http://google.com">Fault tolerant QC</a>
 </pre>
 <script type="module">
 	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
