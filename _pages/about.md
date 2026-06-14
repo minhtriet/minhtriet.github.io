@@ -5,8 +5,7 @@ classes: wide
 ---
 
 <pre class="mermaid">
-timeline
-	TD
+timeline TD
     Data & Backend Systems
     Ranking and Search : Scientific computing Hydrogen Embrittlement
     Predictive Modeling : Quantum computing
