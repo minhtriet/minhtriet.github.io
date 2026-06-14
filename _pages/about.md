@@ -8,7 +8,7 @@ timeline TD
 	section 2023
     Data & Backend Systems
 	section 2024
-    Ranking and Search : Scientific computing Hydrogen Embrittlement
+    Ranking and Search : Flow simulation and <br> physics awared machine learning
 	section 2025
     Predictive Modeling : Quantum computing
 	section 2026
